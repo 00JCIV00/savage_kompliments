@@ -19,7 +19,7 @@ package com.savage_kompliments.qol.StringHelpers
  * Splices the String from index [a] to index [b]. If [allowIndexReverse] is true, the splice can be made from a
  * larger index [a] to a smaller index [b]. This also allows for negative indexing.
  *
- * @sample com.savage_kompliments.samples.sampleSplice
+ * @sample com.savage_kompliments.samples.StringHelpers.sampleSplice
  */
 fun String.splice(a: Int, b: Int, allowIndexReverse: Boolean = true): String {
 	val indices: List<Int> = listOf(a, b).map { index ->
@@ -30,9 +30,9 @@ fun String.splice(a: Int, b: Int, allowIndexReverse: Boolean = true): String {
 }
 
 /**
- * Allows slice to be called in a more Pythonic way, same as can be done with a Collection.
+ * Allows [splice] to be called in a more Pythonic way using square brackets 'string[]', same as can be done with a Collection.
  *
- * @sample com.savage_kompliments.samples.sampleGet
+ * @sample com.savage_kompliments.samples.StringHelpers.sampleGet
  */
 operator fun String.get(i: Int, j: Int): String {
 	return splice(i, j)

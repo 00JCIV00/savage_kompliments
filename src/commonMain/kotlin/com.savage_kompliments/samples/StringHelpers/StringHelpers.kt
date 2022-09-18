@@ -1,7 +1,10 @@
-package com.savage_kompliments.samples
+package com.savage_kompliments.samples.StringHelpers
 
 import com.savage_kompliments.qol.StringHelpers.*
 
+/**
+ * Sample of the [splice] extension function from [StringHelpers].
+ */
 fun sampleSplice() {
 	val baseString = "Aibohphobia, it’s the fear of palindromes."
 
@@ -12,6 +15,9 @@ fun sampleSplice() {
 	println(baseString.splice(25, 13))
 }
 
+/**
+ * Sample of the [get] extension function from [StringHelpers].
+ */
 fun sampleGet() {
 	val baseString = "Bruce Wayne is Batman!"
 
@@ -20,10 +26,6 @@ fun sampleGet() {
 
 	// Negative Indexing: Prints "Batman!"
 	println(baseString[-1, -7])
-}
-
-fun main() {
-	sampleSplice()
 }
 
 
