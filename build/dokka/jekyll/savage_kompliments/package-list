@@ -1,0 +1,19 @@
+$dokka.format:jekyll-v1
+$dokka.linkExtension:html
+$dokka.location:com.savage_kompliments.qol.StringHelpers////PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.StringHelpers/index.html
+$dokka.location:com.savage_kompliments.qol.StringHelpers//get/kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.StringHelpers/get.html
+$dokka.location:com.savage_kompliments.qol.StringHelpers//splice/kotlin.String#kotlin.Int#kotlin.Int#kotlin.Boolean/PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.StringHelpers/splice.html
+$dokka.location:com.savage_kompliments.qol.UserIOHelpers////PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.UserIOHelpers/index.html
+$dokka.location:com.savage_kompliments.qol.UserIOHelpers//promptln/#kotlin.String/PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.UserIOHelpers/promptln.html
+$dokka.location:com.savage_kompliments.qol.UserIOHelpers//promptlnOrNull/#kotlin.String/PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.UserIOHelpers/promptln-or-null.html
+$dokka.location:com.savage_kompliments.samples.StringHelpers////PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples.StringHelpers/index.html
+$dokka.location:com.savage_kompliments.samples.StringHelpers//sampleGet/#/PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples.StringHelpers/sample-get.html
+$dokka.location:com.savage_kompliments.samples.StringHelpers//sampleSplice/#/PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples.StringHelpers/sample-splice.html
+$dokka.location:com.savage_kompliments.samples.UserIOHelpers////PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples.UserIOHelpers/index.html
+$dokka.location:com.savage_kompliments.samples.UserIOHelpers//samplePromptln/#/PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples.UserIOHelpers/sample-promptln.html
+$dokka.location:com.savage_kompliments.samples.UserIOHelpers//samplePromptlnOrNull/#/PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples.UserIOHelpers/sample-promptln-or-null.html
+com.savage_kompliments.qol.StringHelpers
+com.savage_kompliments.qol.UserIOHelpers
+com.savage_kompliments.samples.StringHelpers
+com.savage_kompliments.samples.UserIOHelpers
+
