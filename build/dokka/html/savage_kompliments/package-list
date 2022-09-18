@@ -1,0 +1,19 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.savage_kompliments.qol.StringHelpers////PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.StringHelpers/index.html
+$dokka.location:com.savage_kompliments.qol.StringHelpers/StringHelpersKt///PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.StringHelpers/-string-helpers-kt/index.html
+$dokka.location:com.savage_kompliments.qol.StringHelpers/StringHelpersKt/get/kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.StringHelpers/-string-helpers-kt/get.html
+$dokka.location:com.savage_kompliments.qol.StringHelpers/StringHelpersKt/splice/kotlin.String#kotlin.Int#kotlin.Int#kotlin.Boolean/PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.StringHelpers/-string-helpers-kt/splice.html
+$dokka.location:com.savage_kompliments.qol.UserIOHelpers////PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.UserIOHelpers/index.html
+$dokka.location:com.savage_kompliments.qol.UserIOHelpers/UserIOHelpersKt///PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.UserIOHelpers/-user-i-o-helpers-kt/index.html
+$dokka.location:com.savage_kompliments.qol.UserIOHelpers/UserIOHelpersKt/promptln/#kotlin.String/PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.UserIOHelpers/-user-i-o-helpers-kt/promptln.html
+$dokka.location:com.savage_kompliments.qol.UserIOHelpers/UserIOHelpersKt/promptlnOrNull/#kotlin.String/PointingToDeclaration/savage_kompliments/com.savage_kompliments.qol.UserIOHelpers/-user-i-o-helpers-kt/promptln-or-null.html
+$dokka.location:com.savage_kompliments.samples////PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples/index.html
+$dokka.location:com.savage_kompliments.samples/StringHelpersKt///PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples/-string-helpers-kt/index.html
+$dokka.location:com.savage_kompliments.samples/StringHelpersKt/main/#/PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples/-string-helpers-kt/main.html
+$dokka.location:com.savage_kompliments.samples/StringHelpersKt/sampleGet/#/PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples/-string-helpers-kt/sample-get.html
+$dokka.location:com.savage_kompliments.samples/StringHelpersKt/sampleSplice/#/PointingToDeclaration/savage_kompliments/com.savage_kompliments.samples/-string-helpers-kt/sample-splice.html
+com.savage_kompliments.qol.StringHelpers
+com.savage_kompliments.qol.UserIOHelpers
+com.savage_kompliments.samples
+
