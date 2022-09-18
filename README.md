@@ -7,4 +7,6 @@
 - **Description:**    A Collection of custom tools for Kotlin.
 ___
 
-## WIP.
+## Documentation
+- [Markdown](https://github.com/00JCIV00/savage_kompliments/blob/master/build/dokka/gfm/index.md)
+- [HTML](https://github.com/00JCIV00/savage_kompliments/blob/master/build/dokka/html/index.html)

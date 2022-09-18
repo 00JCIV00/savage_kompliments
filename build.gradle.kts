@@ -67,3 +67,10 @@ kotlin {
         val nativeTest by getting
     }
 }
+
+tasks.register("dokkaAll") {
+    dependsOn("dokkaHtml")
+    dependsOn("dokkaGfm")
+    dependsOn("dokkaJavadoc")
+    dependsOn("dokkaJekyll")
+}
